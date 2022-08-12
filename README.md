@@ -6,7 +6,7 @@
 
 **系统功能持续更新中。。。**
 #### 介绍
- **SpringBoot2.X VUE2.6 Antd1.7.2  MyBatisPlus Shiro1.5.0 Java1.8 管理系统 JVM 权限设计 可作为毕业设计和快速开发 健康管理系统** 
+ **SpringBoot2.X VUE2.6 ElementUI2.x  MyBatisPlus Shiro1.5.0 Java1.8 管理系统 JVM 权限设计 可作为毕业设计和快速开发 高校数字化迎新管理系统** 
 #### 项目所用技术
 |技术点   | 描述  | 备注   |
 | :------------: | :------------: | :------------: |
@@ -290,7 +290,7 @@
  **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。**  
  **   17001380020 微信同号**  
 
-![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png "微信二维码-1.png")
+![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
 #### 安装教程
 
