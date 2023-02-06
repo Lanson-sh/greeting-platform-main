@@ -1,12 +1,22 @@
 # 高校数字化迎新管理系统 
 
-![登陆界面](https://www.skywalking.pro/download/images/greeting-platform/WX20220811-134517@2x.png "登陆界面.png")
+![登陆界面](https://www.skywalking.pro/download/images/greeting-platform/WX20230103-151331@2x.png "登陆界面.png")
 
-![主页](https://www.skywalking.pro/download/images/health-platform/health-main-01.png "主页.png")
+####  **联系作者** 
+
+ **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。**  
+ **   17001380020 微信同号**  
+
+![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
+
+![首页界面](https://www.skywalking.pro/download/images/greeting-platform/WX20230103-151228@2x.png "首页界面.png")
+
+![首页图表](https://www.skywalking.pro/download/images/greeting-platform/WX20230103-151519@2x.png "首页图表.png")
+
 
 **系统功能持续更新中。。。**
 #### 介绍
- **SpringBoot2.X VUE2.6 ElementUI2.x  MyBatisPlus Shiro1.5.0 Java1.8 管理系统 JVM 权限设计 可作为毕业设计和快速开发 高校数字化迎新管理系统** 
+ **这是一款主要用于高校迎新的系统，主要是采用了SpringBoot2.X VUE2.6 ElementUI2.x  MyBatisPlus Shiro1.5.0 Java1.8 进行开发。系统系统主要分为四个模块，分别是学生功能模块、辅导员功能模块、院级管理员功能模块、校级管理员功能模块可作为毕业设计和快速开发模版** 
 #### 项目所用技术
 |技术点   | 描述  | 备注   |
 | :------------: | :------------: | :------------: |
@@ -18,6 +28,16 @@
 | Shiro1.5.0 | 经典而好用的权限框架  |  |
 | Java1.8 | 最常用的Java版本  |使用了Java8新特性  |
 | RBAC权限模型|纯动态的菜单权限设计，可控制权限到按钮级别  |纯动态的菜单权限设计  |
+#### 清晰的注释
+**项目的每个类和方法，都具备清晰的注释，适合阅读，注释如下图：**
+
+**1. 类注释**
+
+![类注释](https://www.skywalking.pro/download/images/meta/WX20230206-092916@2x.png "类注释")
+
+**2. 数据库字段注释注释**
+
+![类注释](https://www.skywalking.pro/download/images/meta/WX20230206-093511@2x.png "类注释")
 #### 项目特有优势
 1. 清晰的注释，每个方法，类，字段，都具备中文注释。
 2. 部署方便，作者编写了一键启动的脚本，可以让Java后端完美运行在主流服务器上。
@@ -86,12 +106,16 @@
 #### 系统登陆
 - 登陆界面
 
-![登陆界面](https://www.skywalking.pro/download/images/greeting-platform/WX20220811-134517@2x.png "登陆界面.png")
+![登陆界面](https://www.skywalking.pro/download/images/greeting-platform/WX20230103-151331@2x.png "登陆界面.png")
 
 #### 系统管理模块
 - 系统主页
 
-![输入图片说明](https://www.skywalking.pro/download/images/greeting-platform/WX20220811-135609@2x.png "系统主页.png")
+![首页界面](https://www.skywalking.pro/download/images/greeting-platform/WX20230103-151228@2x.png "首页界面.png")
+
+- 首页图表
+
+![首页图表](https://www.skywalking.pro/download/images/greeting-platform/WX20230103-151519@2x.png "首页图表.png")
 
 - 菜单管理
 
