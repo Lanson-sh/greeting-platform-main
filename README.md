@@ -1,4 +1,4 @@
-# 高校数字化迎新管理系统 
+# 基于Java-SpringBoot-VUE-MySQL的高校数字化迎新管理系统 
 
 ![登陆界面](https://www.skywalking.pro/download/images/greeting-platform/WX20230103-151331@2x.png "登陆界面.png")
 
